@@ -12,3 +12,5 @@ num = 5.76543
 print("Rounded to Nearest Integer: ", round(num)) # No second argument specified so the function will return the nearest integer which will be 6
 
 print("Rounded to 2 Decimal Places: ", round(num, 2))
+
+#end
