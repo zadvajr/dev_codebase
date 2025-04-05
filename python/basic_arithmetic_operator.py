@@ -1,0 +1,14 @@
+a = 2
+b = 3
+c = a + b
+print("c = ", c)
+d = b - a
+print("d = ", d)
+e = a * b
+print("e = ", e)
+f = a / 2
+print("f = ", f)
+g = a ** b
+print("g = ", g)
+h = 3 % 2
+print("h = ", h)

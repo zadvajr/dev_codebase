@@ -1,0 +1,5 @@
+Write a python script to perform basic arithmetic operation such as addition, subtraction, division, multiplication, reminder, and raised to power.
+
+Hint: Assume that the operation is to be carried out on num1 = 10, and num2 = 5
+
+Note: You are to print the output to the user with a descriptive text e.g. Sum = 15 and etc.
