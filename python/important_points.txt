@@ -1,0 +1,2 @@
+1. You can exit python in commandline using the exit() or exit 
+2. Run python file in commandline by -->> python file_name.py
