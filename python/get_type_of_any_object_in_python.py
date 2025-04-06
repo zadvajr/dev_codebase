@@ -3,7 +3,7 @@
 
 #For example
 name = "Daniel"
-age = "25"
+age = 25
 
 print(type(name))
 print(type(age))
