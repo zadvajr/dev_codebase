@@ -28,6 +28,7 @@ c = complex(x) # x  is an integer, and this line converts it to complex number t
 d = complex(y) # y is a floating point number, and this line converts it to a complex type
 
 # Conversion from complex to any type is not allowed, as complex type cannot be converted into any other type.
+# e = int(z) #This line will result in type error
 
 # Conversion from str to int
 age = "32"
@@ -39,7 +40,8 @@ str_age = str(int_age) # converts int_age back to str
 # After Conversion
 print(f"Type of {x} after conversion is: {a}")
 print(f"Type of {y} after conversion is: {b}")
-print(f"Type of {z} after conversion is: {c}")
+print(f"Type of {x} after conversion is: {c}")
+print(f"Type of {y} after conversion is: {d}")
 
 # Conversion from complex to any other type is not allowed.
 #end
