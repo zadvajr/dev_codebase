@@ -6,3 +6,9 @@
 b = "Hello World"
 print(b[2:5]) # Prints llo
 # Note: The first character has an index 0
+
+# Slice from start
+# By ommiting the start index, the slice will begin at index 0
+print(b[:5]) # Prints Hello
+
+
