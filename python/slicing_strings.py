@@ -11,4 +11,7 @@ print(b[2:5]) # Prints llo
 # By ommiting the start index, the slice will begin at index 0
 print(b[:5]) # Prints Hello
 
+# Slice to the end
+# By leaving out the end index, it slices up to the end
+print(b[6:]) # Prints World
 
