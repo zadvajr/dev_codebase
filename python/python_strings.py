@@ -41,3 +41,12 @@ for x in "banana":
 # To get the length of a string we can use the len() function
 a = "Hello world"
 print(len(a))
+
+# Check string
+# To check if a certain character or string exist in a particular string
+# we make use of in keyword
+txt = "The best things in life are free"
+print("free" in txt)
+
+if "free" in txt:
+    print("Yes free is in the txt")
