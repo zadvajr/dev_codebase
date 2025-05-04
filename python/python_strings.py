@@ -20,3 +20,10 @@ print('He loves "Reading"')
 # Example
 a = "Hello"
 print(a)
+
+# Multiline string
+# You can assign multiline string to a variable by using triple quotes
+# Example
+a = """This is a multiline string assigned to a variable
+it is going to appear as it is in the code."""
+print(a)
