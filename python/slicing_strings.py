@@ -15,3 +15,6 @@ print(b[:5]) # Prints Hello
 # By leaving out the end index, it slices up to the end
 print(b[6:]) # Prints World
 
+# Negative indexing
+# Use negative indexing to start the slicing from the end of string
+print(b[-5:]) # World
