@@ -27,3 +27,17 @@ print(a)
 a = """This is a multiline string assigned to a variable
 it is going to appear as it is in the code."""
 print(a)
+
+# You can also use three single quotes
+# Note, line breaks are inserted in the same position they appear in the code.
+
+# Looping through a string
+# Since strings are arrays we can loop through them with a for loop
+# Example: loop through the word 'banana'
+for x in "banana":
+    print(x)
+
+# String leng
+# To get the length of a string we can use the len() function
+a = "Hello world"
+print(len(a))
