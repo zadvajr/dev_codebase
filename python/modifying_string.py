@@ -30,4 +30,13 @@ print("Text length after strip: ", len(a.strip()))
 
 print()
 
+# Replace string
+# Python has a string method called replace()
+# it accepts two arguments, the first is the string to be replaced
+# and the second is the new string to take place
+msg = "Hello World!"
+print("Before replace: ", msg)
+print("After replace: ", msg.replace("H", "Y"))
+
+print()
 
