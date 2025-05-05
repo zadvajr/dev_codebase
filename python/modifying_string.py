@@ -17,3 +17,17 @@ print("Before conversion: ", name)
 print("After Conversion: ", name.lower())
 print("Original Text: ", name)
 
+print()
+# Remove whitespace
+# whitespace is the space before and/or after the actual text
+# and most likely you may want to remove these spaces
+# the strip() method removes whitespaces at the begining or end of text
+a = "   Hello I have space before and after       "
+print("Text before striping: ", a)
+print("Text Length befor strip: ", len(a))
+print("Text after striping: ", a.strip())
+print("Text length after strip: ", len(a.strip()))
+
+print()
+
+
