@@ -11,3 +11,9 @@
 age = 28
 txt = f"I am Daniel and I am {age} year old."
 print(txt)
+
+# format() method
+name = "Daniel"
+height = 2.5
+txt = "{} is {} in height".format(name, height)
+print(txt)
