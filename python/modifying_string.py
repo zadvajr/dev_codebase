@@ -40,3 +40,8 @@ print("After replace: ", msg.replace("H", "Y"))
 
 print()
 
+# Split string
+# Python has string method called split() which converts it to a list
+fruits = "Apple, Banana, Cherry, Mango, Orange"
+print("The String:",fruits)
+print("After Split:", fruits.split(","))
